@@ -5,6 +5,6 @@ This project provides a cross platform mobile tracking tool for personal expense
 ## App in Action
 <div align="center"><img src="/media/Home.jpg" alt="run instructions" width="500px"></div>
 <div align="center"><img src="/media/Add.jpg" alt="run instructions" width="500px"></div>
-<div align="center"><img src="/media/Portrait2.jpg" alt="run instructions" width="500px"></div>
+<div align="center"><img src="/media/Portrait.jpg" alt="run instructions" width="500px"></div>
 <div align="center"><img src="/media/Landscape.jpg" alt="run instructions" width="500px"></div>
 <div align="center"><img src="/media/Landscape2.jpg" alt="run instructions" width="500px"></div>
